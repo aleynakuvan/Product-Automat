@@ -1,0 +1,8 @@
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\bin\Debug\Product.exe.config
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\bin\Debug\Product.exe
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\bin\Debug\Product.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\obj\Debug\Product.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\obj\Debug\Product.exe
+C:\Users\aleyn\OneDrive\Masaüstü\C#\Product\Product\obj\Debug\Product.pdb
